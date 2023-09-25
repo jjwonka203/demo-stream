@@ -1,0 +1,13 @@
+- Tìm hiểu về stream với ngôn ngữ C#.
+- Thực hiện các bài tập nhỏ sau:
++ Cho một chuỗi văn bản, bao gồm thông tin về tên và MSSV của các
+thành viên trong nhóm. Ghi chuỗi này ra file text bằng phương pháp
+stream.
++ Cho file text có nội dung là phần yêu cầu thực hiện tìm hiểu của
+tuần này. Đọc file text này bằng phương pháp stream và in ra màn
+hình console.
++ Cho file text A có nội dung là phần yêu cầu thực hiện tìm hiểu của
+tuần trước. Đọc file text A và ghi nội dung sang file text B bằng
+phương pháp stream.
+- Biên soạn báo cáo: Các bước thực hiện bài tập và giải thích từng dòng
+codes.
